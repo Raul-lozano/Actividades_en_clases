@@ -1,4 +1,5 @@
-frase= input("Mi mundo")
+#Ciclo For
+frase= input("Actividades")
 for indice in range (len(frase)):
     print(indice ,'=', frase[indice])
 
